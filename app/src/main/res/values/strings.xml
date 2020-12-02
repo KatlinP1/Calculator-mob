@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="squareroot">√</string>
+    <string name="exponentiation">^</string>
+    <string name="seven">7</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="clear">C</string>
+    <string name="square_root">"√ "</string>
+    <string name="percent">%</string>
+    <string name="dividing">/</string>
+    <string name="eight">8</string>
+    <string name="comma">.</string>
+    <string name="multiplication">*</string>
+    <string name="equation">=</string>
+    <string name="five">5</string>
+    <string name="kolm">3</string>
+    <string name="miinus">-</string>
+    <string name="pluss">+</string>
+    <string name="nine">9</string>
+    <string name="neli">4</string>
+    <string name="kuus">6</string>
+    <string name="zero">0</string>
+    <string name="plsmin">+/-</string>
+    <string name="error">Error can´t get root from negative value</string>
+</resources>
